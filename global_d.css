@@ -1,0 +1,17 @@
+  /*  Helena's CSS File */
+/* Jovanny Lemonad Freeware License v1.00 This license can also be found at this permalink: http://www.fontsquirrel.com/license/20-db */
+
+@font-face {font-family: '20db'; 
+src: url(20db-webfont.woff);
+font-weight: normal;
+font-style: normal; }
+
+body { font-family: '20db', verdana, arial, sans-serif;
+       font-size: 12px;
+       line-height: 1.5;
+       margin: 0;
+       padding: 0;
+       background: LightCyan; } 
+  
+
+
